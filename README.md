@@ -59,7 +59,7 @@ console.log("This is a code snippet!");
 
 You can add Hyperlinks to external websites (or) to files within your Git Repository. Relative links can be added using the file path within the repository. 
 
-Link to [**Chanakya's Youtube Channel**](https://youtube.come). 
+Link to [**Chanakya's Youtube Channel**](https://www.youtube.com/channel/UCfBG6pX9AvKfTBAX0EHLYzQ). 
 
 Format will be **\[Text for Hyperlink](Link to resource)**
 
