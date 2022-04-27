@@ -2,6 +2,8 @@
 
 This repository contains snippets of markdown that will help guide you for creating beautiful, clear and concise README files for your projects and repositories. 
 
+A tutorial for this is available [**here**](https://youtu.be/I-8qpK3jp58).
+
 ## What is a README.md file?
 
 A README file is usually the first content that any developer will read when opening up a repository. So, what is it?
